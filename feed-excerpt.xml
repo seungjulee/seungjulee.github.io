@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>SJ Lee</title><subtitle>SJ Lee's Personal Website</subtitle><updated>2015-08-22T03:23:15-07:00</updated><id>tag:sjlee.me,2005:/</id><link rel="alternate" type="text/html" hreflang="en" href="http://sjlee.me/"/><link rel="self" type="application/atom+xml" href="http://sjlee.me/feed.xml"/><rights>Copyright © 2015, SeungJu Lee</rights><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><entry><title>Welcome</title><id>tag:sjlee.me,2014:/welcome/</id><link rel="alternate" type="text/html" href="http://sjlee.me/welcome.html"/><updated>2014-06-13T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;AMSF, a.k.a. &lt;strong&gt;Almace Scaffolding&lt;/strong&gt;, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.&lt;/p&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Getting Started</title><id>tag:sjlee.me,2014:/getting-started/</id><link rel="alternate" type="text/html" href="http://sjlee.me/getting-started.html"/><updated>2014-06-12T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Configuration</title><id>tag:sjlee.me,2014:/configuration/</id><link rel="alternate" type="text/html" href="http://sjlee.me/configuration.html"/><updated>2014-06-11T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;customizing&quot;&gt;Customizing&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Themes</title><id>tag:sjlee.me,2014:/themes/</id><link rel="alternate" type="text/html" href="http://sjlee.me/themes.html"/><updated>2014-06-10T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Markdown Features Test</title><id>tag:sjlee.me,2014:/markdown-features-test/</id><link rel="alternate" type="text/html" href="http://sjlee.me/markdown-features-test.html"/><updated>2014-06-06T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Markup Example</title><id>tag:sjlee.me,2014:/markup-example/</id><link rel="alternate" type="text/html" href="http://sjlee.me/markup-example.html"/><updated>2014-06-05T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Custom HTML Markups</title><id>tag:sjlee.me,2014:/custom-html-markups/</id><link rel="alternate" type="text/html" href="http://sjlee.me/custom-html-markups.html"/><updated>2014-06-01T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;note-store-and-download&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.note&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.store&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;.download&lt;/code&gt;&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Custom Color Scheme</title><id>tag:sjlee.me,2014:/custom-color-scheme/</id><link rel="alternate" type="text/html" href="http://sjlee.me/custom-color-scheme.html"/><updated>2014-05-01T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;This is an example how to change your post color scheme for specific posts. You can simply add the folloing variables to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>Unique Post Styling via Custom CSS</title><id>tag:sjlee.me,2014:/custom-css/</id><link rel="alternate" type="text/html" href="http://sjlee.me/custom-css.html"/><updated>2014-04-01T00:00:00-07:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;This is an example how to change your post styling via CSS. You can simply add the &lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt; option to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>SVG Post Ttile</title><id>tag:sjlee.me,2014:/svg-post-title/</id><link rel="alternate" type="text/html" href="http://sjlee.me/svg-post-title.html"/><updated>2014-02-01T00:00:00-08:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;This is an example of custom post title using SVG image. You can simply add the folloing setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
+
+
+          
+        
+      
+        </content></entry><entry><title>External Link Post</title><id>tag:sjlee.me,2014:/external-link-post/</id><link rel="alternate" type="text/html" href="http://sjlee.me/external-link-post.html"/><updated>2014-02-01T00:00:00-08:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;p&gt;This is an example of Tumblr-like external link post. You can simply add the folloing setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
+
+
+          
+        
+          &lt;p&gt;&lt;a href=&quot;http://sparanoid.com/&quot;&gt;&lt;small&gt;◉ Direct Link to Original Site&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
+        
+      
+        </content></entry><entry><title>GitHub Pages Setup Guide</title><id>tag:sjlee.me,2014:/github-pages-setup/</id><link rel="alternate" type="text/html" href="http://sjlee.me/github-pages-setup.html"/><updated>2014-01-01T00:00:00-08:00</updated><author><name>SeungJu Lee</name><uri>http://sjlee.me/</uri><email>me@sjlee.me</email></author><content type="html" xml:base="http://sjlee.me/">
+          &lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+
+          
+        
+      
+        </content></entry></feed>
